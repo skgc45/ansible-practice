@@ -1,4 +1,4 @@
-iface: 'eth0'
+iface: 'eth1'
 nginx_port: 8080
 nginx_log_dir: "/var/log/nginx"
 serverspec_base_dir: "/usr/local/serverspec"

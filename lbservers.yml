@@ -1,7 +1,7 @@
 ---
 # file: lbservers.yml
 - hosts: lbservers
-  remote_user: centos
+  remote_user: vagrant
   become: yes
   become_user: root
   gather_facts: no
